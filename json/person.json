@@ -1,0 +1,26 @@
+{
+    "id":"1001",
+    "name":"Anand",
+    "age":21,
+    "place":[
+        "India",
+        "Indiana"
+    ],
+    "images":[
+        {
+            "id":10,
+            "name":"image 1"
+        },
+        {
+            "id":20,
+            "name":"image 2"
+        }
+    ],
+    "address":{
+        "street_no":"1212",
+        "details":{
+            "house_no":3355,
+            "town":"Test Town"
+        }
+    }
+}
